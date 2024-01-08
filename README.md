@@ -7,6 +7,7 @@ This repository contains a hybrid GAN model that combines the strengths of Super
 **Project Details**
 
 Training Duration: 3001 epochs
+
 Reason for Limitation: Due to resource constraints, the training duration was limited to 3001 epochs.
 
 **Acknowledgments**
